@@ -1,0 +1,12 @@
+Hi !! Below are the options you chose
+Database:MySql
+Dependency Injection: Unity
+Test Framework: NUnit
+Mock Framework: Moq
+SPA: Yes
+UI: AngularJS 1
+Authentication: OAuth
+Logging: NLog
+CDN: Yes
+Profiling: Glimpse
+Insights: Application Insights
